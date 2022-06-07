@@ -1,4 +1,4 @@
-## Olá!  Eu sou Bethânia A. de O e Freitas 🙋‍♀️
+# Olá!  Eu sou Bethânia A. de O e Freitas 🙋‍♀️
 
 Estou estudando tecnologia e buscando transição de carreira para esta área. 
 No momento sou aluna do Db1Start e do DevStart Be.Academy e Paylivre
