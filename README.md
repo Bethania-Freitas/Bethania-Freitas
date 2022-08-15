@@ -1,7 +1,7 @@
 # Olá!  Eu sou Bethânia A. de O e Freitas 🙋‍♀️
 
-Estou estudando tecnologia e buscando transição de carreira para esta área. 
-No momento sou aluna do Db1Start e do DevStart Be.Academy e Paylivre
+Depois de anos na area administrativa iniciei no começo de 2022 minha transição de carreia para área de Tecnologia.
+Estudei 2 mundos do curso de Python pelo Curso em Video do Guanabara, e finalizei em 3º lugar o Bootcamp de desenvolvidor backend pela Be.Academy em parceria com a Paylivre, de 12000 incritos e 130 selecionados. 
 
 ## Interesses:
 🎤 - Musica <br>
