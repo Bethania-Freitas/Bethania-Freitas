@@ -1,7 +1,7 @@
 # Olá!  Eu sou Bethânia A. de O e Freitas 🙋‍♀️
 
 Depois de anos na area administrativa iniciei no começo de 2022 minha transição de carreia para área de Tecnologia.
-Estudei 2 mundos do curso de Python pelo Curso em Video do Guanabara, e finalizei em 3º lugar o Bootcamp de desenvolvidor backend pela Be.Academy em parceria com a Paylivre, de 12000 incritos e 130 selecionados. Hoje sou uma das 30 finalistas do programa Dev Makers da Lets Code em parceria com a empresa Sinqia.
+Estudei 2 mundos do curso de Python pelo Curso em Video do Guanabara, e finalizei em 3º lugar o Bootcamp de desenvolvidor backend pela Be.Academy em parceria com a Paylivre, de 12000 incritos e 130 selecionados. Também fui umas das 30 bolsistas no programa da Ada Tech em parceria com a Sinqia, onde desde 04.23 eu iniciei profissionalmente atuar na area. 
 
 ## Interesses:
 🎤 - Musica <br>
