@@ -1,7 +1,8 @@
-# Olá!  Eu sou Bethânia A. de O e Freitas 🙋‍♀️
+# Bethânia Alves de Oliveira e Freitas 🙋‍♀️
 
 Depois de anos na area administrativa iniciei no começo de 2022 minha transição de carreia para área de Tecnologia.
-Estudei 2 mundos do curso de Python pelo Curso em Video do Guanabara, e finalizei em 3º lugar o Bootcamp de desenvolvidor backend pela Be.Academy em parceria com a Paylivre, de 12000 incritos e 130 selecionados. Também fui umas das 30 bolsistas no programa da Ada Tech em parceria com a Sinqia, onde desde 04.23 eu iniciei profissionalmente atuar na area. 
+Estudei 2 mundos do curso de Python pelo Curso em Video do Guanabara, e finalizei em 3º lugar o Bootcamp de desenvolvidor backend pela Be.Academy em parceria com a Paylivre, de 12000 incritos e 130 selecionados. Também fui umas das 30 bolsistas no programa da Ada Tech em parceria com a Sinqia, onde fui contratada pela empresa ao final do programa. 
+
 
 ## Interesses:
 🎤 - Musica <br>
@@ -15,11 +16,10 @@ Estudei 2 mundos do curso de Python pelo Curso em Video do Guanabara, e finalize
 ## Linguagens que estou estudando:
 
 <div style='display: inline block'><br>
-    <img align='center' alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align='center' alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
     <img align='center' alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align='center' alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align='center' alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align='center' alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img align='center' alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     
 
 </div><br><br>
