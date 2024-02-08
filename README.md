@@ -41,9 +41,6 @@ Paralelo a isso sigo me desenvolvendo, fazendo diversos cursos online em Cloud (
 </div><br><br>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bethania-Freitas&layout=compact)](https://github.com/Bethania-Freitas/github-readme-stats)
-
 ## Minhas Estastísticas:
 
 ![Bethânia GitHub stats](https://github-readme-stats.vercel.app/api?username=Bethania-Freitas&show_icons=true&theme=radical)
