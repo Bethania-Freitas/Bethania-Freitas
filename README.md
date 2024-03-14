@@ -1,5 +1,5 @@
 # Bethânia Alves de Oliveira e Freitas 🙋‍♀️
-### Desenvolvedora Web - Back-End .Net
+### Desenvolvedora Web 
 
 Formada em Gestão Comercial, com anos de experiência na área administrativa e compras, fiz transição de carreira para a área de tecnologia como desenvolvedora Web.
 
